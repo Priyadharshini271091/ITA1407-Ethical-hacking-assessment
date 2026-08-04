@@ -1,0 +1,3 @@
+vi example.txt
+less example.txt
+more example.txt
