@@ -1,1 +1,3 @@
-
+cat sample.txt
+mkdir sample.txt
+ls
